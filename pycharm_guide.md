@@ -1,4 +1,4 @@
-# **Ultimate Guide to PyCharm Professional for University Students**
+# **Ultimate Guide to PyCharm Professional**
 
 This guide will walk you through:
 1. Downloading PyCharm Professional  
